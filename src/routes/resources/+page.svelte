@@ -1,4 +1,4 @@
-<script>
+//<script>
 	import LinearProgress from '@smui/linear-progress';
 	import { News, Resources } from '$lib/components';
 
@@ -32,4 +32,4 @@
 {:catch error}
 	<!-- promise was rejected -->
 	<p>Something went wrong: {error.message}</p>
-{/await}
+//{/await}
