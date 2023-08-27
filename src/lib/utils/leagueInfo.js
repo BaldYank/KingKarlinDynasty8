@@ -7,11 +7,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2018, the #DynastyWithCovika league began with a 20-round start-up draft amongst a small group of friends.  Each year, the managers compete to win the Covika Cup and avoid the last place punishment.</p>
-  <p>Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bought the dip and built for the future.</p>
-  <p>In astounding commitment to building a dynasty franchise, many of the managers have begun to have kids and groom the next generation of managers to take over their teams. The mini managers are being heavily indoctrinated into the fantasy lifestyle and will be expected to take an active role as soon as they can successfully type out a coherent trade offer.</p>
-  <p>In contrast to the addition of the mini managers, one manager has also left but, despite that, the league has only gotten stronger. </p>
-  <p>With passionate managers, the competition has become more intense and more difficult each year. While the ultimate prize is bragging rights, league naming rights, and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $350 and 2nd place breaks even with a $50 prize.</p>
+  <p>In a world… where fantasy football leagues come and go… where injuries derail hopeful managers’ seasons year after year… where bad commissioners let pettiness steamroll competitive fun… only one league stands the rest of time.</p>
+  <p>It goes by many names - some celebrating champions, others ridiculing poor performances - but as the sun sets and new eras rise, there is but one dynasty that persists.</p>
 `;
 
 /*   STEP 3   */
