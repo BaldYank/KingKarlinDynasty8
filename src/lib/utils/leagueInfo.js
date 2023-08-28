@@ -127,7 +127,7 @@ export const managers = [
       "favoritePlayer": 2374, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl) Tyler Lockett
       "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Draft, Distract, Distroy, Dynasty", // (optional)
+      "philosophy": "Draft, Distract, Destroy, Dynasty", // (optional)
       "tradingScale": 7, // 1 - 10 (optional)
       "preferredContact": "Text",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
