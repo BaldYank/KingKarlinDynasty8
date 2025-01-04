@@ -12,13 +12,13 @@ export const homepageText = `
 
   <p></p>
   <p>History of League Names:</p>
-  <p>2024: Baby C Diaper Fund</p>
-  <p>2023: The Jeff Sucks League</p>
-  <p>2022: Cocullen’s Nursing School Slush Fund</p>
-  <p>2021: LONG LIVE KING COMMISH</p>
-  <p>2020: Best Cure for 2020: Go #Ballzout</p>
-  <p>2019: Tylar's League, We're All Just Living In It</p>
-  <p>2018: #DynastyWithCovika</p>
+  <p>    2024: Baby C Diaper Fund</p>
+  <p>    2023: The Jeff Sucks League</p>
+  <p>    2022: Cocullen’s Nursing School Slush Fund</p>
+  <p>    2021: LONG LIVE KING COMMISH</p>
+  <p>    2020: Best Cure for 2020: Go #Ballzout</p>
+  <p>    2019: Tylar's League, We're All Just Living In It</p>
+  <p>    2018: #DynastyWithCovika</p>
 `;
 
 /*   STEP 3   */
