@@ -9,6 +9,16 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>In a world… where fantasy football leagues come and go… where injuries derail hopeful managers’ seasons year after year… where bad commissioners let pettiness steamroll competitive fun… only one league stands the rest of time.</p>
   <p>It goes by many names - some celebrating champions, others ridiculing poor performances - but as the sun sets and new eras rise, there is but one dynasty that persists.</p>
+
+  <p></p>
+  <p>History of League Names:</p>
+  <p>2024: Baby C Diaper Fund</p>
+  <p>2023: The Jeff Sucks League</p>
+  <p>2022: Cocullen’s Nursing School Slush Fund</p>
+  <p>2021: LONG LIVE KING COMMISH</p>
+  <p>2020: Best Cure for 2020: Go #Ballzout</p>
+  <p>2019: Tylar's League, We're All Just Living In It</p>
+  <p>2018: #DynastyWithCovika</p>
 `;
 
 /*   STEP 3   */
