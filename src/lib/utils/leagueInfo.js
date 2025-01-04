@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1048456241095352320"; // your league ID
+export const leagueID = "1180993746627325952"; // your league ID
 export const leagueName = "Baby C Diaper Fund"; // your league name
 export const dues = 50; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
@@ -37,7 +37,7 @@ export const managers = [
         image: "/managers/Cory_Wheaton.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 6794, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl) Justin Jefferson
-      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Vets", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
       "philosophy": "QB room injuries be damned", // (optional)
       "tradingScale": 9, // 1 - 10 (optional)
