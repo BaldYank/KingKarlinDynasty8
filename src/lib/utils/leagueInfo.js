@@ -1,6 +1,6 @@
 /*   STEP 1   */
 export const leagueID = "1180993746627325952"; // your league ID
-export const leagueName = "Baby C Diaper Fund"; // your league name
+export const leagueName = "King+Karlin Elite 8"; // your league name
 export const dues = 50; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
