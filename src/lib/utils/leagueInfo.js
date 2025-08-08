@@ -5,7 +5,7 @@ export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
-/*   STEP 2   */
+/*   STEP 2   */ 
 export const homepageText = `
   <p>In a world… where fantasy football leagues come and go… where injuries derail hopeful managers’ seasons year after year… where bad commissioners let pettiness steamroll competitive fun… only one league stands the rest of time.</p>
   <p>It goes by many names - some celebrating champions, others ridiculing poor performances - but as the sun sets and new eras rise, there is but one dynasty that persists.</p>
@@ -53,7 +53,7 @@ export const managers = [
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": " Tyler Ogoshi",
+      "name": "Tyler Ogoshi",
       "location": "Portland, Oregon", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/Togo_Linkedin.jpg", // square ratio recommended (no larger than 500x500)
@@ -74,7 +74,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": " Jeff Stein",
+      "name": "Jeff Stein",
       "location": "Sacramento, California", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/Jeff_glasses.png", // square ratio recommended (no larger than 500x500)
@@ -116,7 +116,7 @@ export const managers = [
     },
 {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": " Cory Cullen",
+      "name": "Cory Cullen",
       "location": "Brooklyn", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/Cory_Wheaton.png", // square ratio recommended (no larger than 500x500)
@@ -158,7 +158,7 @@ export const managers = [
     },
 {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": " Daniel McGunnigle",
+      "name": "Daniel McGunnigle",
       "tookOver": 2022, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Tualatin, Oregon", // (optional)
       "bio": "Lorem ipsum...",
