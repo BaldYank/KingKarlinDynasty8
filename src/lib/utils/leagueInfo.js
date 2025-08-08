@@ -20,7 +20,7 @@ export const homepageText = `
   <p>2018: #DynastyWithCovika</p>
 `;
 
-/*   STEP 3   */
+/*   STEP 3   */ 
 /*
 3 managers as an example. Uncomment (remove the //) before each line to make it live code
 If you're having trouble, reference the Training Wheels' Manager Section
